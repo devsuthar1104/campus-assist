@@ -217,9 +217,6 @@ Student Login:
 Create your own account via registration
 ```
 
-## 📱 Screenshots
-*Add screenshots of your application here*
-
 ## 🔄 Future Updates
 To get latest updates:
 ```bash
